@@ -1,9 +1,3 @@
-# Problem-3---P-rates
-Problem solved in Python Fundamentals course in Softuni
-Problem 3 - P!rates
-Problem for exam preparation for the Programming Fundamentals Course @SoftUni.
-Submit your solutions in the SoftUni judge system at https://judge.softuni.org/Contests/Practice/Index/2302#2.
-
 Anno 1681. The Caribbean. The golden age of piracy. You are a well-known pirate captain by the name of Jack Daniels. Together with your comrades Jim (Beam) and Johnny (Walker), you have been roaming the seas, looking for gold and treasure… and the occasional killing, of course. Go ahead, target some wealthy settlements and show them the pirate's way!
 Until the "Sail" command is given, you will be receiving:
 •	You and your crew have targeted cities, with their population and gold, separated by "||".
